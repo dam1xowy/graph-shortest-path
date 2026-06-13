@@ -1,4 +1,4 @@
 WYMAGANIA
 -C++17
--OpenMP.
+-OpenMP
 -CMake
