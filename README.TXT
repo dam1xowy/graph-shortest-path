@@ -1,0 +1,4 @@
+WYMAGANIA
+-C++17
+-OpenMP.
+-CMake
